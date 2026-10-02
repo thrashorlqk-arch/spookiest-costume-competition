@@ -161,16 +161,16 @@
 
 <script>
 const contestants = [
-  {name:"Melisa Mastun", cls:"Class 5", emoji:"🧛", desc:"A mysterious creature has entered the competition..."},
-  {name:"Student 2", cls:"Class 6", emoji:"🧙", desc:"A magical Halloween look with plenty of character."},
-  {name:"Student 3", cls:"Class 7", emoji:"🧟", desc:"Something has escaped from the Halloween laboratory."},
-  {name:"Student 4", cls:"Class 8", emoji:"👹", desc:"A bold and wonderfully creepy costume."},
-  {name:"Student 5", cls:"Class 9", emoji:"🕷️", desc:"A dark Halloween-inspired creation."},
-  {name:"Student 6", cls:"Class 10", emoji:"🎃", desc:"Classic Halloween spirit with a creative twist."},
-  {name:"Student 7", cls:"Class 11", emoji:"👻", desc:"A spooky appearance designed to surprise."},
-  {name:"Student 8", cls:"Class 12", emoji:"🧟‍♀️", desc:"A carefully designed costume full of details."},
-  {name:"Student 9", cls:"Class 6", emoji:"🧛‍♀️", desc:"A mysterious Halloween character comes to life."},
-  {name:"Student 10", cls:"Class 7", emoji:"☠️", desc:"A striking costume ready for the Halloween stage."}
+  {name:"Melisa", cls:"Class 5", emoji:"🧛", desc:"A mysterious creature has entered the competition..."},
+  {name:"Miray", cls:"Class 6", emoji:"🧙", desc:"A magical Halloween look with plenty of character."},
+  {name:"Berna", cls:"Class 7", emoji:"🧟", desc:"Something has escaped from the Halloween laboratory."},
+  {name:"Jasmin", cls:"Class 8", emoji:"👹", desc:"A bold and wonderfully creepy costume."},
+  {name:"Mustafa", cls:"Class 9", emoji:"🕷️", desc:"A dark Halloween-inspired creation."},
+  {name:"Aleyna", cls:"Class 10", emoji:"🎃", desc:"Classic Halloween spirit with a creative twist."},
+  {name:"Ali", cls:"Class 11", emoji:"👻", desc:"A spooky appearance designed to surprise."},
+  {name:"Nilay", cls:"Class 12", emoji:"🧟‍♀️", desc:"A carefully designed costume full of details."},
+  {name:"Derya", cls:"Class 6", emoji:"🧛‍♀️", desc:"A mysterious Halloween character comes to life."},
+  {name:"Husein", cls:"Class 7", emoji:"☠️", desc:"A striking costume ready for the Halloween stage."}
 ];
 const criteria = ["Creativity","Spookiness","Costume Design","Presentation","Overall Effect"];
 
