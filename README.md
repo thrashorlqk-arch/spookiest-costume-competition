@@ -161,7 +161,7 @@
 
 <script>
 const contestants = [
-  {name:"Student 1", cls:"Class 5", emoji:"🧛", desc:"A mysterious creature has entered the competition..."},
+  {name:"Melisa Mastun", cls:"Class 5", emoji:"🧛", desc:"A mysterious creature has entered the competition..."},
   {name:"Student 2", cls:"Class 6", emoji:"🧙", desc:"A magical Halloween look with plenty of character."},
   {name:"Student 3", cls:"Class 7", emoji:"🧟", desc:"Something has escaped from the Halloween laboratory."},
   {name:"Student 4", cls:"Class 8", emoji:"👹", desc:"A bold and wonderfully creepy costume."},
